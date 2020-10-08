@@ -1,5 +1,4 @@
 header {
-    /* top: 16px; */
     position: relative;
     font-size: 14px;
 }
@@ -10,4 +9,14 @@ header {
 .left p {
     display: inline-block;
     padding-left: 15px;
+}
+
+.right {
+    display: flex;
+    float: right;
+}
+
+.right p {
+    padding-right: 15px;
+
 }
