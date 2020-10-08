@@ -1,0 +1,13 @@
+header {
+    /* top: 16px; */
+    position: relative;
+    font-size: 14px;
+}
+.left {
+    position: absolute;
+}
+
+.left p {
+    display: inline-block;
+    padding-left: 15px;
+}
